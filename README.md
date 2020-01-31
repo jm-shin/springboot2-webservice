@@ -1,6 +1,5 @@
 # springboot2-webservice
-springboot2 webservice
-======================
+
 * 스프링부트 프로젝트와 그레이들 연동
 * 스프링 부트 환경에서 테스트 코드 작성
 * lombok 사용
